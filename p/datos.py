@@ -62,6 +62,6 @@ Volt_Curr_fit.Fit("line")
 a.Draw()
 
 a.SaveAs("out"+name + ".jpg")		# Guardar la imagen
-input()						# Presionar enter para dejar de ver la gráfica
+input()						# Presionar enter para dejar de ver la gráfica.
 
 #####################################################################################################
